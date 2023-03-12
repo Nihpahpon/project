@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458433031665",
+    "project_id": "maize-disease-diagnosis",
+    "storage_bucket": "maize-disease-diagnosis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458433031665:android:4bd5835104ea58afe4a850",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458433031665-5f85d6o6el1id9k59p015o9j38iq94kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw0IelQ0EufAgSBPo7C0eOzAawcso5jcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458433031665-5f85d6o6el1id9k59p015o9j38iq94kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
